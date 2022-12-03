@@ -14,7 +14,7 @@ public class balanceTest {
         countOfMinutes = 350;
         priceForMinute = 2;
         priceForExtraMinute = 5;
-        int expected = 70;
+        int expected = 700;
         int actual = sub.feeCost(countOfMinutes, priceForMinute, priceForExtraMinute);
         assertEquals(expected, actual);
     }
