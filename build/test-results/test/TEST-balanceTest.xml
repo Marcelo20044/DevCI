@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="balanceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-12-02T11:01:58" hostname="MacBook-Air-Mark.local" time="0.072">
+  <properties/>
+  <testcase name="samePriceForExtraMinutes()" classname="balanceTest" time="0.039"/>
+  <testcase name="lessThanLimitBy1()" classname="balanceTest" time="0.002"/>
+  <testcase name="lessThanLimit()" classname="balanceTest" time="0.002"/>
+  <testcase name="limit()" classname="balanceTest" time="0.002"/>
+  <testcase name="zeroMinutes()" classname="balanceTest" time="0.006"/>
+  <testcase name="moreThanLimit()" classname="balanceTest" time="0.002"/>
+  <testcase name="moreThanLimitBy1()" classname="balanceTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
